@@ -1,7 +1,7 @@
 @media only screen and (min-width: 992px) {
   widht: 100%;
   h2{
-    text-align:right;
+    text-align:end;
   }
   #sec1,#sec2,#sec3{
     width: auto;
@@ -15,7 +15,7 @@
 
 @media only screen and (max-width: 991px) and (min-width: 768px) {
   h2{
-    text-align:right;
+    text-align:end;
   }
   #sec1,#sec2{
     width: auto;
@@ -33,7 +33,7 @@
 
 @media only screen and (max-width: 767px) {
 h2{
-    text-align:right;
+    text-align:end;
   width:auto;
 }
 
