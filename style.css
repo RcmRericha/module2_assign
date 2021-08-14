@@ -4,8 +4,10 @@
     width: auto;
   }
   #sec1{
-    float: left;
+    float: right;
   }
+  #sect2{
+    float:right;
 }
 
 @media only screen and (max-width: 991px) and (min-width: 768px) {
