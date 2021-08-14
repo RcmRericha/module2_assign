@@ -1,5 +1,7 @@
 @media only screen and (min-width: 992px) {
   widht: 100%;
+  h2{
+    text-align:right;
   #sec1,#sec2,#sec3{
     width: auto;
   }
