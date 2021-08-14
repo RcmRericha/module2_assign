@@ -1,7 +1,7 @@
 @media only screen and (min-width: 992px) {
   widht: 100%;
   #sec1,#sec2,#sec3{
-    widht:33.33%;
+    width: auto;
   }
   #sec1{
     float: left;
@@ -9,7 +9,18 @@
 }
 
 @media only screen and (max-width: 991px) and (min-width: 768px) {
-
+  #sec1,#sec2{
+    width: auto;
+  }
+  #sec1{
+    float: left;
+  }
+  #sec2{
+    float:right;
+  }
+  #sec3{
+    width:auto;
+  }
 }
 
 @media only screen and (max-width: 767px) {
